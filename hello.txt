@@ -1,4 +1,5 @@
 hello git dev conflict fixed master
+new code
 
 
 
